@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>udrii_14._02._22</RootNamespace>
+    <RootNamespace>_15._02._2022_Zadanie_Spisuci</RootNamespace>
   </PropertyGroup>
 
 </Project>

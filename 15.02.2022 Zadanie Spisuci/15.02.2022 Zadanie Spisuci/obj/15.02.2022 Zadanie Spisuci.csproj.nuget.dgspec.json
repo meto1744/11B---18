@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\Documents\\11B GitHub 18\\udrii 14.02.22\\udrii 14.02.22\\udrii 14.02.22.csproj": {}
+    "C:\\Users\\Student\\Documents\\11B GitHub 18\\11B---18\\15.02.2022 Zadanie Spisuci\\15.02.2022 Zadanie Spisuci\\15.02.2022 Zadanie Spisuci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\Documents\\11B GitHub 18\\udrii 14.02.22\\udrii 14.02.22\\udrii 14.02.22.csproj": {
+    "C:\\Users\\Student\\Documents\\11B GitHub 18\\11B---18\\15.02.2022 Zadanie Spisuci\\15.02.2022 Zadanie Spisuci\\15.02.2022 Zadanie Spisuci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Documents\\11B GitHub 18\\udrii 14.02.22\\udrii 14.02.22\\udrii 14.02.22.csproj",
-        "projectName": "udrii 14.02.22",
-        "projectPath": "C:\\Users\\Student\\Documents\\11B GitHub 18\\udrii 14.02.22\\udrii 14.02.22\\udrii 14.02.22.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Documents\\11B GitHub 18\\11B---18\\15.02.2022 Zadanie Spisuci\\15.02.2022 Zadanie Spisuci\\15.02.2022 Zadanie Spisuci.csproj",
+        "projectName": "15.02.2022 Zadanie Spisuci",
+        "projectPath": "C:\\Users\\Student\\Documents\\11B GitHub 18\\11B---18\\15.02.2022 Zadanie Spisuci\\15.02.2022 Zadanie Spisuci\\15.02.2022 Zadanie Spisuci.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Documents\\11B GitHub 18\\udrii 14.02.22\\udrii 14.02.22\\obj\\",
+        "outputPath": "C:\\Users\\Student\\Documents\\11B GitHub 18\\11B---18\\15.02.2022 Zadanie Spisuci\\15.02.2022 Zadanie Spisuci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",

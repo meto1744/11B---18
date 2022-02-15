@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\11B GitHub 18\11B---18\15.02.2022 Zadanie Spisuci\15.02.2022 Zadanie Spisuci\bin\Debug\netcoreapp3.1\15.02.2022 Zadanie Spisuci.exe
+C:\Users\Student\Documents\11B GitHub 18\11B---18\15.02.2022 Zadanie Spisuci\15.02.2022 Zadanie Spisuci\bin\Debug\netcoreapp3.1\15.02.2022 Zadanie Spisuci.deps.json
+C:\Users\Student\Documents\11B GitHub 18\11B---18\15.02.2022 Zadanie Spisuci\15.02.2022 Zadanie Spisuci\bin\Debug\netcoreapp3.1\15.02.2022 Zadanie Spisuci.runtimeconfig.json
+C:\Users\Student\Documents\11B GitHub 18\11B---18\15.02.2022 Zadanie Spisuci\15.02.2022 Zadanie Spisuci\bin\Debug\netcoreapp3.1\15.02.2022 Zadanie Spisuci.runtimeconfig.dev.json
+C:\Users\Student\Documents\11B GitHub 18\11B---18\15.02.2022 Zadanie Spisuci\15.02.2022 Zadanie Spisuci\bin\Debug\netcoreapp3.1\15.02.2022 Zadanie Spisuci.dll
+C:\Users\Student\Documents\11B GitHub 18\11B---18\15.02.2022 Zadanie Spisuci\15.02.2022 Zadanie Spisuci\bin\Debug\netcoreapp3.1\15.02.2022 Zadanie Spisuci.pdb
+C:\Users\Student\Documents\11B GitHub 18\11B---18\15.02.2022 Zadanie Spisuci\15.02.2022 Zadanie Spisuci\obj\Debug\netcoreapp3.1\15.02.2022 Zadanie Spisuci.csprojAssemblyReference.cache
+C:\Users\Student\Documents\11B GitHub 18\11B---18\15.02.2022 Zadanie Spisuci\15.02.2022 Zadanie Spisuci\obj\Debug\netcoreapp3.1\15.02.2022 Zadanie Spisuci.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\11B GitHub 18\11B---18\15.02.2022 Zadanie Spisuci\15.02.2022 Zadanie Spisuci\obj\Debug\netcoreapp3.1\15.02.2022 Zadanie Spisuci.AssemblyInfo.cs
+C:\Users\Student\Documents\11B GitHub 18\11B---18\15.02.2022 Zadanie Spisuci\15.02.2022 Zadanie Spisuci\obj\Debug\netcoreapp3.1\15.02.2022 Zadanie Spisuci.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\11B GitHub 18\11B---18\15.02.2022 Zadanie Spisuci\15.02.2022 Zadanie Spisuci\obj\Debug\netcoreapp3.1\15.02.2022 Zadanie Spisuci.dll
+C:\Users\Student\Documents\11B GitHub 18\11B---18\15.02.2022 Zadanie Spisuci\15.02.2022 Zadanie Spisuci\obj\Debug\netcoreapp3.1\15.02.2022 Zadanie Spisuci.pdb
+C:\Users\Student\Documents\11B GitHub 18\11B---18\15.02.2022 Zadanie Spisuci\15.02.2022 Zadanie Spisuci\obj\Debug\netcoreapp3.1\15.02.2022 Zadanie Spisuci.genruntimeconfig.cache
